@@ -80,10 +80,9 @@
 </p>
 <br>
 <div align="center">
-<img  height="175" src="https://github-readme-stats.vercel.app/api?username=EslamAsHhraf&count_private=true&show_icons=true&title_color=6633cc&theme=midnight-purple&hide_border=true" >
+<img  height="175" src="https://github-readme-stats.vercel.app/api?username=EslamAsHhraf&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" >
 <br>
 </div>
-<br/>
 
-<p align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting"/></p>
-
+<br>
+<p align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=See+You+Later.."/></p>
