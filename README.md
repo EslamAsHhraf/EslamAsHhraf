@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img align="" width=550px src="images/logo.gif" alt="logo">
+  <img align="" width=600px src="images/logo.gif" alt="logo">
   <p align="">”Pray for the best, prepare for the worst.“</p>
 
 ![Repos Badge](https://badges.pufler.dev/repos/EslamAsHhraf)
