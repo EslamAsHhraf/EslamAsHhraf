@@ -20,14 +20,38 @@
 <li> 🖐 Available to help </li>
 </ul>
 
+<br>
 
 ## <img align="center"  height =50px src="images/skills.gif">Technologies and Skills <a id = "about"></a>
 
+<div align ="center">
+<code><img height="50" src="images/js-logo.webp"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="images/Git2.png"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="40" height="40" /></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /></code>
+
+<br />
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+<code><img height="40" src="images/C_Logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="images/c_sharp2.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="images/Java.svg.png"></code>
+<code><img width="40" src="images/php.svg.png"></code>
+<code><img width="40" src="images/mysq.png"></code>
+<code><img height="40" src="images/ASM-Symbol.png"></code>
+
+</div>
 
 
 <img src="images/neon.gif">
 
-## <img align="center"  height =50px src="images/skills.gif">Connect with me: <a id = "Connect"></a>
+## 📫 Connect with me: <a id = "Connect"></a>
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/eslam-ashraf-b70880216/" target="blank"><img align="center"
       src="images/linked-in-alt.svg"
@@ -51,6 +75,7 @@
       src="images/hackerrank.svg"
       alt="elsam pithewan" height="30" width="40" /></a> 
 </p>
+<br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=EslamAsHhraf&show_icons=true&theme=radical&align=center" >
 <br>
