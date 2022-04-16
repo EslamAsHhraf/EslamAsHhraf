@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img align="" width=600px src="images/logo.gif" alt="logo">
+  <img align="" width=550px src="images/logo.gif" alt="logo">
   <p align="">”Pray for the best, prepare for the worst.“</p>
 
 ![Repos Badge](https://badges.pufler.dev/repos/EslamAsHhraf)
@@ -80,7 +80,10 @@
 </p>
 <br>
 <div align="center">
-<img  height="175" src="https://github-readme-stats.vercel.app/api?username=EslamAsHhraf&count_private=true&show_icons=true&custom_title=GitHub%20Status&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=tre" >
+<img  height="175" src="https://github-readme-stats.vercel.app/api?username=EslamAsHhraf&count_private=true&show_icons=true&title_color=6633cc&theme=midnight-purple&hide_border=true" >
 <br>
 </div>
+<br/>
+
+<p align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting"/></p>
 
