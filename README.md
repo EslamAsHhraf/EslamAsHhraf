@@ -9,7 +9,9 @@
 ![Repos Badge](https://badges.pufler.dev/repos/EslamAsHhraf)
 <img src="https://komarev.com/ghpvc/?username=EslamAsHhraf&label=Profile%20views&color=0e75b6&style=flat" alt="EslamAsHhraf" />
 </div>
-<img src="images/neon.gif">
+<div align="center">
+<img  width=90% src="images/neon.gif">
+</div>
 
 ## <img align="center"  height =50px src="images/think.gif"> About Me <a id = "about"></a>
 
@@ -22,7 +24,7 @@
 
 <br>
 
-## <img align="center"  height =50px src="images/skills.gif">Technologies and Skills <a id = "about"></a>
+## <img align="center"  height =50px src="images/skills.gif">Technical  Skills <a id = "about"></a>
 
 <div align ="center">
 <code><img height="50" src="images/js-logo.webp"></code>
@@ -47,8 +49,9 @@
 
 </div>
 
-
-<img src="images/neon.gif">
+<div align="center">
+<img  width=90% src="images/neon.gif">
+</div>
 
 ## 📫 Connect with me: <a id = "Connect"></a>
 <br>
@@ -77,7 +80,7 @@
 </p>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EslamAsHhraf&show_icons=true&theme=radical&align=center" >
+<img  height="175" src="https://github-readme-stats.vercel.app/api?username=EslamAsHhraf&count_private=true&show_icons=true&custom_title=GitHub%20Status&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=tre" >
 <br>
 </div>
 
