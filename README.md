@@ -7,7 +7,7 @@
   <img align="" width=600px height=450px src="images/logo.gif" alt="logo">
   <span align="">
    
-   #### ”Pray for the best, prepare for the worst.“
+   ### ”Pray for the best, prepare for the worst.“
  
  </span>
 
@@ -20,13 +20,13 @@
 
 ## <img align="center"  height =50px src="images/think.gif"> About Me <a id = "about"></a>
   
-- #### Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
+- ### Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
  
--  #### 📝 Checkout my <a href="https://drive.google.com/file/d/1_3OetfgQKJ1m-JHAanWR8vcqUrRCxqjy/view?usp=sharing">Resume</a> 
+-  ### 📝 Checkout my <a href="https://drive.google.com/file/d/1_3OetfgQKJ1m-JHAanWR8vcqUrRCxqjy/view?usp=sharing">Resume</a> 
 
--  #### 📫 How to reach me <a href="mailto:eslamashraf.12342@gmail.com">Mail</a>
+-  ### 📫 How to reach me <a href="mailto:eslamashraf.12342@gmail.com">Mail</a>
 
--  #### 🖐 Available to help
+-  ### 🖐 Available to help
 
 
 <br>
