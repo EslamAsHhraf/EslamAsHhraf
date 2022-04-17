@@ -1,3 +1,4 @@
+ 
 # Hi there <img height ="35px" src="images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/eslam-ashraf-b70880216/">Eslam!</a>
 
 </div>
@@ -14,13 +15,15 @@
 </div>
 
 ## <img align="center"  height =50px src="images/think.gif"> About Me <a id = "about"></a>
+  
+- #### Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
+ 
+-  #### 📝 Checkout my <a href="https://drive.google.com/file/d/1_3OetfgQKJ1m-JHAanWR8vcqUrRCxqjy/view?usp=sharing">Resume</a> 
 
-<ul>
-<li> 🎓 Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a></li>
-<li> 📝 Checkout my <a href="https://drive.google.com/file/d/1_3OetfgQKJ1m-JHAanWR8vcqUrRCxqjy/view?usp=sharing">Resume</a> </li>
-<li> 📫 How to reach me <a href="mailto:eslamashraf.12342@gmail.com">Mail</a></li>
-<li> 🖐 Available to help </li>
-</ul>
+-  #### 📫 How to reach me <a href="mailto:eslamashraf.12342@gmail.com">Mail</a>
+
+-  #### 🖐 Available to help
+
 
 <br>
 
