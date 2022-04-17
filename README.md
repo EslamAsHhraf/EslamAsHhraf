@@ -5,7 +5,11 @@
 
 <div align="center">
   <img align="" width=600px height=450px src="images/logo.gif" alt="logo">
-  <p align="">”Pray for the best, prepare for the worst.“</p>
+  <span align="">
+   
+   #### ”Pray for the best, prepare for the worst.“
+ 
+ </span>
 
 ![Repos Badge](https://badges.pufler.dev/repos/EslamAsHhraf)
 <img src="https://komarev.com/ghpvc/?username=EslamAsHhraf&label=Profile%20views&color=0e75b6&style=flat" alt="EslamAsHhraf" />
