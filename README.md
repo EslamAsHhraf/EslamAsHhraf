@@ -1,9 +1,9 @@
-## Hi there <img height ="35px" src="images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/eslam-ashraf-b70880216/">Eslam!</a>
+# Hi there <img height ="35px" src="images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/eslam-ashraf-b70880216/">Eslam!</a>
 
 </div>
 
 <div align="center">
-  <img align="" width=550px src="images/logo.gif" alt="logo">
+  <img align="" width=450px src="images/logo.gif" alt="logo">
   <p align="">”Pray for the best, prepare for the worst.“</p>
 
 ![Repos Badge](https://badges.pufler.dev/repos/EslamAsHhraf)
