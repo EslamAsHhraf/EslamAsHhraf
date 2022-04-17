@@ -13,7 +13,7 @@
 <img  width=90% src="images/neon.gif">
 </div>
 
-## <img align="center"  height =50px src="images/think.gif"> About Me <a id = "about"></a>
+### <img align="center"  height =50px src="images/think.gif"> About Me <a id = "about"></a>
 
 <ul>
 <li> 🎓 Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a></li>
@@ -24,7 +24,7 @@
 
 <br>
 
-## <img align="center"  height =50px src="images/skills.gif">Technical  Skills <a id = "about"></a>
+### <img align="center"  height =50px src="images/skills.gif">Technical  Skills <a id = "about"></a>
 
 <div align ="center">
 <code><img height="50" src="images/js-logo.webp"></code>
@@ -53,7 +53,7 @@
 <img  width=90% src="images/neon.gif">
 </div>
 
-## 📫 Connect with me: <a id = "Connect"></a>
+### 📫 Connect with me: <a id = "Connect"></a>
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/eslam-ashraf-b70880216/" target="blank"><img align="center"
