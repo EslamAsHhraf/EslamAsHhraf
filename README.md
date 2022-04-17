@@ -13,7 +13,7 @@
 <img  width=90% src="images/neon.gif">
 </div>
 
-### <img align="center"  height =50px src="images/think.gif"> About Me <a id = "about"></a>
+## <img align="center"  height =50px src="images/think.gif"> About Me <a id = "about"></a>
 
 <ul>
 <li> 🎓 Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a></li>
@@ -24,7 +24,7 @@
 
 <br>
 
-### <img align="center"  height =50px src="images/skills.gif">Technical  Skills <a id = "about"></a>
+## <img align="center"  height =50px src="images/skills.gif">Technical  Skills <a id = "about"></a>
 
 <div align ="center">
 <code><img height="50" src="images/js-logo.webp"></code>
@@ -35,7 +35,7 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="40" height="40" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /></code>
 
-<br />
+<br>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="40" src="images/C_Logo.png"></code>
@@ -53,7 +53,7 @@
 <img  width=90% src="images/neon.gif">
 </div>
 
-### 📫 Connect with me: <a id = "Connect"></a>
+## 📫 Connect with me: <a id = "Connect"></a>
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/eslam-ashraf-b70880216/" target="blank"><img align="center"
