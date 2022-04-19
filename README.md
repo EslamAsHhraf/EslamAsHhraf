@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img align="" width=600px height=450px src="images/logo.gif" alt="logo">
+  <img align="" width=550px height=400px src="images/logo.gif" alt="logo">
   <span align="">
    
    #### ”Pray for the best, prepare for the worst.“
