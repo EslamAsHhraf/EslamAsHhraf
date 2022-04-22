@@ -65,7 +65,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/eslam-ashraf-b70880216/" target="blank"><img align="center"
       src="images/linked-in-alt.svg"
-      alt="elsam pithewan" height="30" width="40" /></a> 
+      alt="elsam_pithewan" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100008920246590" target="blank"><img align="center"
       src="images/facebook.svg"
       alt="elsam pithen wala" height="30" width="40" /></a> 
