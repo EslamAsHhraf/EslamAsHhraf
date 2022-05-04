@@ -11,7 +11,6 @@
  
  </span>
 
-![Repos Badge](https://badges.pufler.dev/repos/EslamAsHhraf)
 <img src="https://komarev.com/ghpvc/?username=EslamAsHhraf&label=Profile%20views&color=0e75b6&style=flat" alt="EslamAsHhraf" />
 </div>
 <div align="center">
@@ -31,7 +30,8 @@
 
 <br>
 
-## <img align="center"  height =50px src="images/skills.gif">Technical  Skills <a id = "about"></a>
+
+## <img align="center"  height =50px src="images/skills.gif">Technical  Skills
 
 <div align ="center">
 <code title="JavaScript"><img height="50" src="images/js-logo.webp"></code>
@@ -42,10 +42,9 @@
 <code title="Angular"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="40" height="40" /></code>
 <code title="Java"><img height="40" src="images/Java.svg.png"></code>
 <code title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /></code>
-
+</div>
 <br>
-<br>
- 
+ <div align ="center">
 <code title="arduino"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code title="C"><img height="40" src="images/C_Logo.png"></code>
 <code title="C++"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -57,14 +56,15 @@
 <code title="Linux"><img src="images/images.jpg" alt="bootstrap" width="40" height="40" /></code>
 
 </div>
-
+<br>
 <div align="center">
 <img  width=90% src="images/neon.gif">
 </div>
 
+
 ## 📫 Connect with me: <a id = "Connect"></a>
-<br>
-<p align="center">
+</br>
+<div align="center">
   <a href="https://www.linkedin.com/in/eslam-ashraf-b70880216/" target="blank"><img align="center"
       src="images/linkedin.png"
       alt="elsam_pithewan" height="30" width="30" /></a>
@@ -86,7 +86,7 @@
   <a href="https://www.hackerrank.com/eslamashraf_1231" target="blank"><img align="center"
       src="images/hackerrank.svg"
       alt="elsam pithewan" height="30" width="40" /></a> 
-</p>
+</div>
 <br>
 <div align="center">
 <img  height="175" src="https://github-readme-stats.vercel.app/api?username=EslamAsHhraf&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" >
