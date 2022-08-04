@@ -1,4 +1,3 @@
- 
 # Hi there <img height ="35px" src="images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/eslam-ashraf-b70880216/">Eslam!</a>
 
 </div>
@@ -18,20 +17,20 @@
 </div>
 
 ## <img align="center"  height =50px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> About Me <a id = "about"></a>
-  
+
 - #### Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
- 
--  #### 📝 Checkout my <a href="https://drive.google.com/file/d/1RvdTctUwLBK1icUbaN5ixdWhPZ71lsJg/view?usp=sharing">Resume</a> 
 
--  #### 📫 How to reach me <a href="mailto:eslamashraf.12342@gmail.com">Mail</a>
+- #### Software Engineer Intern <a href="https://www.bld.ai/">bld.ai</a>
+- #### Software Engineer Traineer <a href="https://www.hdb-egy.com/">HD Bank</a>
+- #### 📝 Checkout my <a href="https://drive.google.com/file/d/1RvdTctUwLBK1icUbaN5ixdWhPZ71lsJg/view?usp=sharing">Resume</a>
 
--  #### 🖐 Available to help
+- #### 📫 How to reach me <a href="mailto:eslamashraf.12342@gmail.com">Mail</a>
 
+- #### 🖐 Available to help
 
 <br>
 
-
-## <img align="center"  height =50px src="images/skills.gif">Technical  Skills
+## <img align="center"  height =50px src="images/skills.gif">Technical Skills
 
 <div align ="center">
 <code title="JavaScript"><img height="50" src="images/js-logo.webp"></code>
@@ -61,8 +60,8 @@
 <img  width=90% src="images/neon.gif">
 </div>
 
-
 ## 📫 Connect with me: <a id = "Connect"></a>
+
 </br>
 <div align="center">
   <a href="https://www.linkedin.com/in/eslam-ashraf-b70880216/" target="blank"><img align="center"
