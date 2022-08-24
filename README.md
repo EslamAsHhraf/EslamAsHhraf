@@ -10,18 +10,24 @@
  
  </span>
 
+<div>
 <img src="https://komarev.com/ghpvc/?username=EslamAsHhraf&label=Profile%20views&color=0e75b6&style=flat" alt="EslamAsHhraf" />
+
+<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://enmkaxqchhuoq30.m.pipedream.net/&style=plastic" alt="EslamAsHhraf" target="_blank"/> 
 </div>
+</div>
+
 <div align="center">
 <img  width=90% src="images/neon.gif">
 </div>
 
 ## <img align="center"  height =50px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> About Me <a id = "about"></a>
 
-- #### Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
+- #### 🎓 Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
 
-- #### Software Engineer Intern <a href="https://www.bld.ai/">bld.ai</a>
-- #### Software Engineer Traineer <a href="https://www.hdb-egy.com/">HD Bank</a>
+- #### 👷🏼‍♂️ Software Engineer Intern <a href="https://www.bld.ai/">bld.ai</a>
+- #### 👷🏼‍♂️ Software Engineer Traineer <a href="https://www.hdb-egy.com/">HD Bank</a>
 - #### 📝 Checkout my <a href="https://drive.google.com/file/d/1RvdTctUwLBK1icUbaN5ixdWhPZ71lsJg/view?usp=sharing">Resume</a>
 
 - #### 📫 How to reach me <a href="mailto:eslamashraf.12342@gmail.com">Mail</a>
