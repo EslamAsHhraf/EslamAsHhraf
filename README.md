@@ -76,7 +76,7 @@
 </div>
 <br>
 
-### Software & Tools
+### Software & Tools:
 
 <div align ="center">
 
@@ -87,7 +87,7 @@
 </div>
 <br>
 
-### Operating Systems
+### Operating Systems:
 
 <div align ="center">
 <code title="Linux"><img src="images/images.jpg" width="40" height="40" /></code>
