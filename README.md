@@ -73,7 +73,7 @@
 </li>
 <li>
 
-### Backend Development:
+### Backend && DataBsse Development:
 
  <div align ="center">
 <code title="mongodb"><img width="45" height="40" src="images/mongodb.webp"></code>
