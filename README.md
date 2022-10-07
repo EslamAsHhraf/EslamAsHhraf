@@ -38,6 +38,9 @@
 
 ## <img align="center"  height =50px src="images/skills.gif">Technical Skills
 
+<ul>
+<li>
+
 ### Programming languages:
 
  <div align ="center">
@@ -49,6 +52,8 @@
 <code title="arduino"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code title="Assembly"><img height="40" src="images/ASM-Symbol.png"></code>
 </div>
+</li>
+<li>
 
 ### Frontend Development:
 
@@ -65,16 +70,21 @@
 
 </div>
 <br>
+</li>
+<li>
 
 ### Backend Development:
 
  <div align ="center">
+<code title="mongodb"><img width="45" height="40" src="images/mongodb.webp"></code>
 <code title="Django"><img width="50" src="images/django.png"></code>
 <code title="PHP"><img width="50" src="images/php2.png"></code>
 <code title="SQl"><img width="40" src="images/sql.png"></code>
 <code title="MySQL"><img width="40" src="images/mysq.png"></code>
 </div>
 <br>
+</li>
+<li>
 
 ### Software & Tools:
 
@@ -86,6 +96,8 @@
 
 </div>
 <br>
+</li>
+<li>
 
 ### Operating Systems:
 
@@ -94,8 +106,9 @@
 <code title="Windos"><img src="images/windos.png" height="40" /></code>
 
 </div>
+</ul>
 <br>
-
+</li>
 <div align="center">
 <img  width=90% src="images/neon.gif">
 </div>
