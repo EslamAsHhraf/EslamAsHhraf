@@ -60,11 +60,11 @@
 <div align ="center">
 <code title="Html 5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code title="CSS"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code title="SCSS"><img height="40" width="40" src="images/scss.png"></code>
 <code title="JavaScript"><img height="50" src="images/js-logo.webp"></code>
 <code title="React.js"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
 <code title="React + Vite"><img height="40" src="images/vite.svg"></code>
 <code title="Vue.js"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code title="Angular"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="40" height="40" /></code>
 <code title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /></code>
 <code title="TailWind.css"><img src="images/tailwind.png" alt="angular-js" width="40" height="40" /></code>
 
