@@ -38,12 +38,14 @@
 
 ## <img align="center"  height =50px src="images/skills.gif">Technical Skills
 
-<ul>
-<li>
+<table  align ="center">
+<tr>
+<td>
 
-### Programming languages:
+### 🔶 Programming languages:
 
- <div align ="center">
+</td>
+<td> <div align ="center">
 <code title="Python"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code title="Java"><img height="40" src="images/Java.svg.png"></code>
 <code title="C"><img height="40" src="images/C_Logo.png"></code>
@@ -51,12 +53,15 @@
 <code title="C#"><img height="40" src="images/c_sharp2.png"></code>
 <code title="arduino"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code title="Assembly"><img height="40" src="images/ASM-Symbol.png"></code>
-</div>
-</li>
-<li>
+</div></td>
 
-### Frontend Development:
+</tr>
+<tr>
+<td>
 
+### 🔷Frontend Development:
+
+</td><td>
 <div align ="center">
 <code title="Html 5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code title="CSS"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -69,12 +74,14 @@
 <code title="TailWind.css"><img src="images/tailwind.png" alt="angular-js" width="40" height="40" /></code>
 
 </div>
-<br>
-</li>
-<li>
+</td>
+<tr>
+<td>
 
-### Backend && DataBsse Development:
+### 🔶 Backend && DataBase Development:
 
+</td>
+<td>
  <div align ="center">
 <code title="mongodb"><img width="45" height="40" src="images/mongodb.webp"></code>
 <code title="Django"><img width="50" src="images/django.png"></code>
@@ -83,11 +90,15 @@
 <code title="MySQL"><img width="40" src="images/mysq.png"></code>
 </div>
 <br>
-</li>
-<li>
+</tr>
+</td>
+<tr>
+<td>
 
-### Software & Tools:
+### 🔷 Software & Tools:
 
+</td>
+<td>
 <div align ="center">
 
 <code title="Git"><img height="40" src="images/Git2.png"></code>
@@ -95,20 +106,23 @@
 <code title="StackOverflow"><img height="40" src="images/StackOverflow.png"></code>
 
 </div>
-<br>
-</li>
-<li>
+</td>
+<tr>
+<td>
 
-### Operating Systems:
+### 🔶Operating Systems:
 
+</td>
+<td>
 <div align ="center">
 <code title="Linux"><img src="images/images.jpg" width="40" height="40" /></code>
 <code title="Windos"><img src="images/windos.png" height="40" /></code>
 
 </div>
-</ul>
-<br>
-</li>
+</td>
+</tr>
+</table>
+
 <div align="center">
 <img  width=90% src="images/neon.gif">
 </div>
