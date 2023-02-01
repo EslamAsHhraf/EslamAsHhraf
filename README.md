@@ -24,11 +24,11 @@
 
 - #### 🎓 Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
 
-- #### 🤖 Currently I am studing Machine Learning
+- #### 🤖 Currently I am studding Machine Learning
 
 - #### 👷🏼‍♂️ Software Engineer Intern <a href="https://www.bld.ai/">bld.ai</a>
-- #### 👷🏼‍♂️ Software Engineer Traineer <a href="https://www.hdb-egy.com/">HD Bank</a>
-- #### 📝 Checkout my <a href="https://drive.google.com/file/d/1_XWOIduLLvn28Q3Fz1xFYmExMx-e_eTh/view">Resume</a>
+- #### 👷🏼‍♂️ Software Engineer Trainer <a href="https://www.hdb-egy.com/">HD Bank</a>
+- #### 📝 Checkout my <a href="https://drive.google.com/file/d/1Bqka5MEnqXTTK8pEvwT0N14ls0zX5AfS/view">Resume</a>
 
 - #### 📫 How to reach me <a href="mailto:eslamashraf.12342@gmail.com">Mail</a>
 
@@ -66,7 +66,9 @@
 <code title="React + Vite"><img height="40" src="images/vite.svg"></code>
 <code title="Vue.js"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /></code>
-<code title="TailWind.css"><img src="images/tailwind.png" alt="angular-js" width="40" height="40" /></code>
+<code title="TailWind.css"><img src="images/tailwind.png" alt="TailWind" width="40" height="40" /></code>
+<code title="MUI"><img src="images/mui.png" alt="MUI" width="40" height="40" /></code>
+<code title="firebase"><img src="images/firebase.png" alt="firebase" width="40" height="40" /></code>
 
 </div>
 <br>
@@ -103,7 +105,8 @@
 
 <div align ="center">
 <code title="Linux"><img src="images/images.jpg" width="40" height="40" /></code>
-<code title="Windos"><img src="images/windos.png" height="40" /></code>
+<code title="Windows"><img src="images/windows.png" height="40" /></code>
+<code title="VMware"><img src="images/vmware.png" height="40" /></code>
 
 </div>
 </ul>
