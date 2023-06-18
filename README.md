@@ -28,7 +28,7 @@
 
 - #### 👷🏼‍♂️ Software Engineer Intern <a href="https://www.bld.ai/">bld.ai</a>
 - #### 👷🏼‍♂️ Software Engineer Trainer <a href="https://www.hdb-egy.com/">HD Bank</a>
-- #### 📝 Checkout my <a href="https://drive.google.com/file/d/1Bqka5MEnqXTTK8pEvwT0N14ls0zX5AfS/view">Resume</a>
+- #### 📝 Checkout my <a href="https://drive.google.com/file/d/1Z9eIIxaEivHEZ3KX6Clf8PigdBK7E4lC/view?usp=sharing">Resume</a>
 
 - #### 📫 How to reach me <a href="mailto:eslamashraf.12342@gmail.com">Mail</a>
 
@@ -50,6 +50,7 @@
 <code title="C++"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code title="C#"><img height="40" src="images/c_sharp2.png"></code>
 <code title="arduino"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+<code title="opengl3"><img height="30" src="images/openGl.jpg"></code>
 <code title="Assembly"><img height="40" src="images/ASM-Symbol.png"></code>
 </div>
 </li>
