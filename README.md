@@ -124,9 +124,6 @@
   <a href="https://www.linkedin.com/in/eslam-ashraf-b70880216/" target="blank"><img align="center"
       src="images/linkedin.png"
       alt="elsam_pithewan" height="30" width="30" /></a>
-  <a href="https://www.kaggle.com/eslamashhraf" target="blank"><img align="center"
-      src="images/kaggle.webp"
-      alt="elsam_pithewan" height="30" width="30" /></a>
  <a href="mailto:eslamashraf.12342@gmail.com" target="blank"><img align="center"
       src="images/Gmail.png"
       alt="elsam pithewan" height="30px" width="40px" /></a> 
