@@ -11,7 +11,7 @@
  </span>
 
 <div>
-<img src="https://komarev.com/ghpvc/?username=EslamAsHhraf&label=Profile%20views&color=0e75b6&style=flat" alt="EslamAsHhraf" />
+<img src="https://komarev.com/ghpvc/?username=EslamAsHhraf&label=Profile%20views&color=0e75b6&style=flat" alt="EslamAsHhraf"/>
 
 </div>
 </div>
@@ -19,8 +19,9 @@
 <div align="center">
 <img  width=90% src="images/neon.gif">
 </div>
-
-## 👨🏻‍💻 About Me <a id = "about"></a>
+ <a id = "about"></a>
+ 
+## 👨🏻‍💻 About Me
 
 - #### 🎓 Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
 
@@ -116,8 +117,9 @@
 <div align="center">
 <img  width=90% src="images/neon.gif">
 </div>
+<a id = "Connect"></a>
 
-## 📫 Connect with me: <a id = "Connect"></a>
+## 📫 Connect with me: 
 
 </br>
 <div align="center">
