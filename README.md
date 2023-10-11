@@ -37,7 +37,7 @@
 
 <br>
 
-## <img align="center"  height =50px src="images/skills.gif">Technical Skills
+## 🤹🏼‍♂️ Technical Skills
 
 <ul>
 <li>
