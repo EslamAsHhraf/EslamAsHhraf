@@ -1,4 +1,4 @@
-# Hi there👋, I'm <a href ="https://www.linkedin.com/in/eslam-ashraf-b70880216/">Eslam!</a>
+# Hi there <img height ="35px" src="images/wave.gif" alt="logo">, I'm <a href ="https://www.linkedin.com/in/eslam-ashraf-b70880216/">Eslam!</a>
 
 </div>
 
@@ -11,7 +11,7 @@
  </span>
 
 <div>
-<img src="https://komarev.com/ghpvc/?username=EslamAsHhraf&label=Profile%20views&color=0e75b6&style=flat" alt="EslamAsHhraf"/>
+<img src="https://komarev.com/ghpvc/?username=EslamAsHhraf&label=Profile%20views&color=0e75b6&style=flat" alt="EslamAsHhraf" />
 
 </div>
 </div>
@@ -19,9 +19,8 @@
 <div align="center">
 <img  width=90% src="images/neon.gif">
 </div>
- <a id = "about"></a>
- 
-## 👨🏻‍💻 About Me
+
+## <img align="center"  height =50px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> About Me <a id = "about"></a>
 
 - #### 🎓 Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
 
@@ -37,7 +36,7 @@
 
 <br>
 
-## 🤹🏼‍♂️ Technical Skills
+## <img align="center"  height =50px src="images/skills.gif">Technical Skills
 
 <ul>
 <li>
@@ -117,9 +116,8 @@
 <div align="center">
 <img  width=90% src="images/neon.gif">
 </div>
-<a id = "Connect"></a>
 
-## 📫 Connect with me: 
+## 📫 Connect with me: <a id = "Connect"></a>
 
 </br>
 <div align="center">
