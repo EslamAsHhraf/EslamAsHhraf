@@ -26,7 +26,7 @@
 
 - #### 🤖 Currently I am studding Machine Learning
 
-- #### 👷🏼‍♂️ Software Engineer Intern <a href="https://liquidc2.com/">LiquidC2 Mina</a>
+- #### 👷🏼‍♂️ Software Engineer Intern <a href="https://liquidc2.com/">LiquidC2</a>
 - #### 👷🏼‍♂️ Software Engineer Intern <a href="https://luminsoft.net/">Lumin Soft</a>
 - #### 👷🏼‍♂️ Software Engineer Intern <a href="https://www.ejada.com/web/ejada">Ejada</a>
 - #### 👷🏼‍♂️ Software Engineer Intern <a href="https://www.bld.ai/">bld.ai</a>
