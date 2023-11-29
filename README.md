@@ -67,7 +67,7 @@
 <code title="JavaScript"><img height="50" src="images/js-logo.webp"></code>
 <code title="React.js"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
 <code title="React + Vite"><img height="40" src="images/vite.svg"></code>
-<code title="Vue.js"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code title="Angular"><img height="40" src="images/angular.png"></code>
 <code title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /></code>
 <code title="TailWind.css"><img src="images/tailwind.png" alt="TailWind" width="40" height="40" /></code>
 <code title="MUI"><img src="images/mui.png" alt="MUI" width="40" height="40" /></code>
@@ -82,7 +82,7 @@
 
  <div align ="center">
 <code title="mongodb"><img width="45" height="40" src="images/mongodb.webp"></code>
-<code title="Django"><img width="50" src="images/django.png"></code>
+<code title=".Net"><img width="40" src="images/Net.png"></code>
 <code title="PHP"><img width="50" src="images/php2.png"></code>
 <code title="SQl"><img width="40" src="images/sql.png"></code>
 <code title="MySQL"><img width="40" src="images/mysq.png"></code>
