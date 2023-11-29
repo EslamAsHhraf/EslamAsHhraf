@@ -26,9 +26,11 @@
 
 - #### 🤖 Currently I am studding Machine Learning
 
+- #### 👷🏼‍♂️ Software Engineer Intern <a href="https://liquidc2.com/">LiquidC2 Mina</a>
+- #### 👷🏼‍♂️ Software Engineer Intern <a href="https://luminsoft.net/">Lumin Soft</a>
+- #### 👷🏼‍♂️ Software Engineer Intern <a href="https://www.ejada.com/web/ejada">Ejada</a>
 - #### 👷🏼‍♂️ Software Engineer Intern <a href="https://www.bld.ai/">bld.ai</a>
 - #### 👷🏼‍♂️ Software Engineer Trainer <a href="https://www.hdb-egy.com/">HD Bank</a>
-- #### 📝 Checkout my <a href="https://drive.google.com/file/d/1Z9eIIxaEivHEZ3KX6Clf8PigdBK7E4lC/view?usp=sharing">Resume</a>
 
 - #### 📫 How to reach me <a href="mailto:eslamashraf.12342@gmail.com">Mail</a>
 
